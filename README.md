@@ -9,3 +9,5 @@ Assignment 3: Random forest classifier and XGB classifier. Implement random fore
 Assignment 4: Implemnt K means algorithm from scratch, experiments and visualization. K means clustering, Density based clustering, DB scan, Hierarchical clustering 
 
 Assignment 5: Neural network, CNN
+
+CS 166: Final class project for information security, using XGBoost algorithm to classify whether twitter accounts are bots or not depending on their attributes
